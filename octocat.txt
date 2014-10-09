@@ -1,2 +1,1 @@
-A Tale of Two Octocats.
-TEST
+A Tale of Two Octocats
